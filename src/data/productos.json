@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Car",
+      "id": 1,
+      "category": "zapatos",
+      "detail": "Lorem Ipsum es simplemente el texto de relleno...",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cars_movie%27s_car.jpg",
+      "stock": 5
+    },
+    {
+      "name": "teletubbie",
+      "id": 2,
+      "category": "zapatillas",
+      "detail": "Lorem Ipsum es simplemente el texto de relleno...",
+      "img": "https://people.com/thmb/Bo8MTMyoT2JvQNg8fULYjTBEpow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(511x0:513x2)/lala-1024-589f1474607b4defb07769b3da4bbbb5.jpg",
+      "stock": 10
+    },
+    {
+      "name": "milk",
+      "id": 3,
+      "category": "leche",
+      "detail": "Lorem Ipsum es simplemente el texto de relleno...",
+      "img": "https://img.freepik.com/free-vector/isolated-milk-box-cartoon-style_1308-117384.jpg?w=360",
+      "stock": 7
+    }
+  ]

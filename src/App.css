@@ -1,0 +1,14 @@
+/* styles.css o el archivo CSS que prefieras */
+.card-img-container {
+  padding-top: 56.25%; /* Para una relación de aspecto de 16:9 */
+  position: relative;
+}
+
+.card-img-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Asegura que las imágenes cubran completamente el contenedor, recortando si es necesario */
+}
